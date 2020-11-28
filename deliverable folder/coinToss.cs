@@ -66,7 +66,7 @@ namespace Deliverable2
             } while (i < numberOfFlips);
 
            
-
+            Console.WriteLine();
             Console.WriteLine($"Your guess, {headsOrTailsGuess}, came up {correctCount} times.");
 
             float percentage = (float)correctCount/(float)numberOfFlips * 100;
