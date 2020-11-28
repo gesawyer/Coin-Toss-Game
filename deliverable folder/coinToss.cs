@@ -71,7 +71,7 @@ namespace Deliverable2
 
             float percentage = (float)correctCount/(float)numberOfFlips * 100;
 
-            Console.WriteLine("That is " + percentage + " percent.");
+            Console.WriteLine("That is " + percentage + " percent of the total flips.");
 
 
         } 
