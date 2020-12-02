@@ -1,0 +1,12 @@
+/Users/Grace/Desktop/ThisOne/CoinTossSubmission/CoinTossSubmission/bin/Debug/netcoreapp3.1/CoinTossSubmission.deps.json
+/Users/Grace/Desktop/ThisOne/CoinTossSubmission/CoinTossSubmission/bin/Debug/netcoreapp3.1/CoinTossSubmission.runtimeconfig.json
+/Users/Grace/Desktop/ThisOne/CoinTossSubmission/CoinTossSubmission/bin/Debug/netcoreapp3.1/CoinTossSubmission.runtimeconfig.dev.json
+/Users/Grace/Desktop/ThisOne/CoinTossSubmission/CoinTossSubmission/bin/Debug/netcoreapp3.1/CoinTossSubmission.dll
+/Users/Grace/Desktop/ThisOne/CoinTossSubmission/CoinTossSubmission/bin/Debug/netcoreapp3.1/CoinTossSubmission.pdb
+/Users/Grace/Desktop/ThisOne/CoinTossSubmission/CoinTossSubmission/obj/Debug/netcoreapp3.1/CoinTossSubmission.csprojAssemblyReference.cache
+/Users/Grace/Desktop/ThisOne/CoinTossSubmission/CoinTossSubmission/obj/Debug/netcoreapp3.1/CoinTossSubmission.AssemblyInfoInputs.cache
+/Users/Grace/Desktop/ThisOne/CoinTossSubmission/CoinTossSubmission/obj/Debug/netcoreapp3.1/CoinTossSubmission.AssemblyInfo.cs
+/Users/Grace/Desktop/ThisOne/CoinTossSubmission/CoinTossSubmission/obj/Debug/netcoreapp3.1/CoinTossSubmission.csproj.CoreCompileInputs.cache
+/Users/Grace/Desktop/ThisOne/CoinTossSubmission/CoinTossSubmission/obj/Debug/netcoreapp3.1/CoinTossSubmission.dll
+/Users/Grace/Desktop/ThisOne/CoinTossSubmission/CoinTossSubmission/obj/Debug/netcoreapp3.1/CoinTossSubmission.pdb
+/Users/Grace/Desktop/ThisOne/CoinTossSubmission/CoinTossSubmission/obj/Debug/netcoreapp3.1/CoinTossSubmission.genruntimeconfig.cache
